@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-19T11:04:34.004Z" agent="5.0 (Windows)" etag="h1K9Y8Uq7G2V7DF6IaTi" version="20.4.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-10-19T11:05:57.754Z" agent="5.0 (Windows)" etag="hbkU6V1s8ZkKN3g39ktt" version="20.4.1" type="github" pages="4">
   <diagram id="vLqBDstVNNIT9Qn_IyQ2" name="лаб.1">
     <mxGraphModel dx="1422" dy="1949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -159,6 +159,15 @@
         </mxCell>
         <mxCell id="BD5q44DbB-x35ST1l_JF-2" value="&lt;div&gt;менеджер по работе &lt;br&gt;&lt;/div&gt;&lt;div&gt;с заказами&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="100" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BD5q44DbB-x35ST1l_JF-3" value="Параметры работы с заказом" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BD5q44DbB-x35ST1l_JF-4" value="&lt;div&gt;Добавление &lt;br&gt;&lt;/div&gt;&lt;div&gt;нового заказа&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="100" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BD5q44DbB-x35ST1l_JF-5" value="Менеджер по работе с заказа" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="100" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
