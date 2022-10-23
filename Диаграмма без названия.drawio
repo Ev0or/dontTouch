@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-23T20:57:06.287Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 OPR/91.0.4516.95" etag="Ak0TCcvUYyrBvdI9aiMd" version="20.5.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-10-23T20:58:29.348Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 OPR/91.0.4516.95" etag="4X728GfPTrjRbYdxvMuT" version="20.5.1" type="github" pages="4">
   <diagram id="vLqBDstVNNIT9Qn_IyQ2" name="лаб.1">
     <mxGraphModel dx="1422" dy="1964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -325,19 +325,22 @@
           <mxGeometry x="470" y="260" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QBCVUwr1kKJHTT6TgiYx-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="760" y="290" width="10" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="QBCVUwr1kKJHTT6TgiYx-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="QBCVUwr1kKJHTT6TgiYx-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="630" y="290" as="sourcePoint" />
-            <mxPoint x="740" y="290" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="830" y="300" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QBCVUwr1kKJHTT6TgiYx-4" value="выдача на доставу&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="630" y="255" width="130" height="30" as="geometry" />
+          <mxGeometry x="800" y="270" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QBCVUwr1kKJHTT6TgiYx-5" value="доставщик&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QBCVUwr1kKJHTT6TgiYx-7" value="проверка &lt;br&gt;наличия заказа&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="630" y="410" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QBCVUwr1kKJHTT6TgiYx-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="510" as="sourcePoint" />
+            <mxPoint x="460" y="460" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
