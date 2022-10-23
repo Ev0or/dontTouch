@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-23T19:34:33.322Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 OPR/91.0.4516.95" etag="1qevHYzLVupsqhokHpAe" version="20.5.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-10-23T19:35:45.230Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 OPR/91.0.4516.95" etag="pXQXTErKEvp97VLAS444" version="20.5.1" type="github" pages="4">
   <diagram id="vLqBDstVNNIT9Qn_IyQ2" name="лаб.1">
     <mxGraphModel dx="1422" dy="2003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -265,6 +265,9 @@
             <mxPoint x="229.79999999999995" y="710.8" as="sourcePoint" />
             <mxPoint x="229.79999999999995" y="140" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LxWKhKmqLcQsMmQdu_0G-12" value="Параметры работы с&lt;br/&gt;заказом&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="140" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
