@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-23T19:40:04.045Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 OPR/91.0.4516.95" etag="AJaV-Zm-TlAYKWygTKHe" version="20.5.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-10-23T19:45:48.511Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 OPR/91.0.4516.95" etag="tvxX8vgMe1sw6g8IECdb" version="20.5.1" type="github" pages="4">
   <diagram id="vLqBDstVNNIT9Qn_IyQ2" name="лаб.1">
     <mxGraphModel dx="1422" dy="2003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -217,8 +217,8 @@
             <mxPoint x="50" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="njcbyfq0BRD7f_Tloeh7-15" value="ввод пароля&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-110" y="150" width="100" height="30" as="geometry" />
+        <mxCell id="njcbyfq0BRD7f_Tloeh7-15" value="вход на сайт/ввод пароля&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-145" y="150" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LxWKhKmqLcQsMmQdu_0G-1" value="вход&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-85" y="230" width="50" height="30" as="geometry" />
