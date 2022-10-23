@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-23T21:07:58.677Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 OPR/91.0.4516.95" etag="P-uYQEnoNueFDYxnz7fx" version="20.5.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-10-23T21:08:13.981Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 OPR/91.0.4516.95" etag="GwuK6t4OZrdb2Qc4jEnW" version="20.5.1" type="github" pages="4">
   <diagram id="vLqBDstVNNIT9Qn_IyQ2" name="лаб.1">
     <mxGraphModel dx="1422" dy="1964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -280,7 +280,7 @@
           <mxGeometry x="70" y="370" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LxWKhKmqLcQsMmQdu_0G-13" value="Добавить заказ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="270" y="475" width="110" height="30" as="geometry" />
+          <mxGeometry x="280" y="375" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LxWKhKmqLcQsMmQdu_0G-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.3;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.2;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="gbyLeVgKhmRuQTjAvlss-3" source="LxWKhKmqLcQsMmQdu_0G-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -317,7 +317,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QBCVUwr1kKJHTT6TgiYx-1" value="сборка заказа" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="470" y="505" width="100" height="30" as="geometry" />
+          <mxGeometry x="470" y="370" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QBCVUwr1kKJHTT6TgiYx-4" value="выдача на доставу&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="860" y="435" width="130" height="30" as="geometry" />
