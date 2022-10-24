@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-24T08:34:42.315Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="j-hUK2yyEOnhTGLiUtlF" version="20.5.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-10-24T08:34:56.697Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="bliqrvPzbDrPyanuAscN" version="20.5.1" type="github" pages="4">
   <diagram id="vLqBDstVNNIT9Qn_IyQ2" name="лаб.1">
     <mxGraphModel dx="1422" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -463,6 +463,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0YvzDdhzV-YGDhEM3WgB-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-40.37" width="80" height="40.12" as="geometry" />
+        </mxCell>
         <mxCell id="0YvzDdhzV-YGDhEM3WgB-15" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="xo3doXEc61PhcvVPleHi-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="833" y="651" as="sourcePoint" />
@@ -500,7 +503,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mJOwkslPmuFCJIf95hUw-1" value="заказчик" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="30" y="-30.25" width="70" height="30" as="geometry" />
+          <mxGeometry x="20" y="-37.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mJOwkslPmuFCJIf95hUw-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="P5t7cgqapnFde1zf8lOk-1" target="mJOwkslPmuFCJIf95hUw-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
