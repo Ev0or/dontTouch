@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-07T11:13:48.223Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" etag="Xm9Qrqc9Cj2-hRWtkVkC" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-07T11:20:44.702Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" etag="_g8PBi9TPQDOr2SFynon" version="20.6.0" type="github">
   <diagram id="HF_OiDbyZWDSJgENQruM" name="Страница 1">
-    <mxGraphModel dx="1287" dy="1953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1432" dy="1953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,8 +19,8 @@
         <mxCell id="kSz5MUQY_ljjsIC7Jj1d-5" value="AUTHOR:Кондратьев Е.А&amp;nbsp; &amp;nbsp;DATE:07.12.2022" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="70" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kSz5MUQY_ljjsIC7Jj1d-6" value="PROJECT: Экзамен REV: 07.12.2022" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="70" y="25" width="230" height="30" as="geometry" />
+        <mxCell id="kSz5MUQY_ljjsIC7Jj1d-6" value="PROJECT: Сдать Экзамен REV: 07.12.2022" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="75" y="25" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kSz5MUQY_ljjsIC7Jj1d-7" value="NOTES: 1 2 3 4 5 6 7 8 9 10" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="80" y="50" width="170" height="30" as="geometry" />
@@ -141,6 +141,9 @@
         </mxCell>
         <mxCell id="UscRjl-F17IV3e_IvT2--15" value="Ученик" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="340" y="510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UscRjl-F17IV3e_IvT2--16" value="Сдать экзамен" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="650" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
