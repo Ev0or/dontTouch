@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-07T12:58:04.522Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.2.807 Yowser/2.5 Safari/537.36" etag="ajlQESilH-7e37TrF_no" version="20.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-07T13:01:36.791Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.2.807 Yowser/2.5 Safari/537.36" etag="zY_wuR_2EMVMZXYvvV0H" version="20.6.0" type="github" pages="2">
   <diagram id="HF_OiDbyZWDSJgENQruM" name="Страница 1">
     <mxGraphModel dx="1641" dy="2081" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -131,7 +131,7 @@
           <mxGeometry x="339" y="160" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UscRjl-F17IV3e_IvT2--12" value="Задачи экзамена" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="328" y="530" width="120" height="30" as="geometry" />
+          <mxGeometry x="340" y="190" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UscRjl-F17IV3e_IvT2--13" value="сдача&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="640" y="290" width="60" height="30" as="geometry" />
