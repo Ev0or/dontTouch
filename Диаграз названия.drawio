@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-07T12:27:23.098Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.2.807 Yowser/2.5 Safari/537.36" etag="DRjKQ5mbauDzZop9V9VT" version="20.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-07T12:28:09.951Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.2.807 Yowser/2.5 Safari/537.36" etag="eWdehgydit1tuNL1Ujq4" version="20.6.0" type="github" pages="2">
   <diagram id="HF_OiDbyZWDSJgENQruM" name="Страница 1">
-    <mxGraphModel dx="2249" dy="1958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1641" dy="2081" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -84,8 +84,8 @@
         </mxCell>
         <mxCell id="kSz5MUQY_ljjsIC7Jj1d-31" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="36.800048828125" y="320" as="sourcePoint" />
-            <mxPoint x="220" y="320" as="targetPoint" />
+            <mxPoint x="-6.5" y="329.41" as="sourcePoint" />
+            <mxPoint x="226.5" y="329.41" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kSz5MUQY_ljjsIC7Jj1d-32" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.002;entryY=0.487;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="kSz5MUQY_ljjsIC7Jj1d-1" edge="1">
