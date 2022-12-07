@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-07T12:37:53.406Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.2.807 Yowser/2.5 Safari/537.36" etag="S6jxXOogFjK9aDmIUvpX" version="20.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-07T12:41:02.546Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.2.807 Yowser/2.5 Safari/537.36" etag="UlRakAXvjfNZhjtvxNJY" version="20.6.0" type="github" pages="2">
   <diagram id="HF_OiDbyZWDSJgENQruM" name="Страница 1">
     <mxGraphModel dx="1641" dy="2081" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -127,8 +127,8 @@
         <mxCell id="UscRjl-F17IV3e_IvT2--10" value="A-0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="80" y="665" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UscRjl-F17IV3e_IvT2--11" value="бумага" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="20" y="280" width="60" height="30" as="geometry" />
+        <mxCell id="UscRjl-F17IV3e_IvT2--11" value="книги для подготовки&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-5" y="290" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UscRjl-F17IV3e_IvT2--12" value="Задачи экзамена" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="330" y="130" width="120" height="30" as="geometry" />
@@ -136,14 +136,14 @@
         <mxCell id="UscRjl-F17IV3e_IvT2--13" value="сдача&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="640" y="290" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UscRjl-F17IV3e_IvT2--14" value="сдать экзамен" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="290" y="310" width="100" height="30" as="geometry" />
+        <mxCell id="UscRjl-F17IV3e_IvT2--14" value="подготовка&amp;nbsp; экзамен" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="270" y="310" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UscRjl-F17IV3e_IvT2--15" value="Ученик" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="340" y="510" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UscRjl-F17IV3e_IvT2--16" value="Сдать экзамен" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="250" y="650" width="110" height="30" as="geometry" />
+        <mxCell id="UscRjl-F17IV3e_IvT2--16" value="подготовка экзамен" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="250" y="650" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UscRjl-F17IV3e_IvT2--17" value="Цель:определить действия им, необходимые&amp;nbsp;&lt;br&gt;для сдачи экзамена&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-10" y="530" width="280" height="40" as="geometry" />
