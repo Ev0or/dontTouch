@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-07T11:20:44.702Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" etag="_g8PBi9TPQDOr2SFynon" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-07T11:23:58.716Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" etag="HPjQcfUX2xnqxXAjpeN9" version="20.6.0" type="github">
   <diagram id="HF_OiDbyZWDSJgENQruM" name="Страница 1">
     <mxGraphModel dx="1432" dy="1953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -144,6 +144,12 @@
         </mxCell>
         <mxCell id="UscRjl-F17IV3e_IvT2--16" value="Сдать экзамен" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="250" y="650" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UscRjl-F17IV3e_IvT2--17" value="Цель:определить действия им, необходимые&amp;nbsp;&lt;br&gt;для сдачи экзамена&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="530" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UscRjl-F17IV3e_IvT2--18" value="Точка зрения:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="905" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
