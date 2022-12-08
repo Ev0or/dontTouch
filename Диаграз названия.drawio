@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-08T09:14:35.379Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.42" etag="wZEOU4pCikt1_IfkAIPe" version="20.6.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-12-08T09:14:55.570Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.42" etag="2HDkqZfWTKJ9n-DzZPQH" version="20.6.0" type="github" pages="3">
   <diagram id="HF_OiDbyZWDSJgENQruM" name="Страница 1">
     <mxGraphModel dx="2249" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -387,8 +387,8 @@
         <mxCell id="4MUvpBP9jOogyr0md7fl-1" value="сотрудник гиббд" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="510" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JwLiMYsSS4REKIVGtb7s-1" value="подготовка&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="244" y="225" width="90" height="30" as="geometry" />
+        <mxCell id="JwLiMYsSS4REKIVGtb7s-1" value="знания&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="254" y="225" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
