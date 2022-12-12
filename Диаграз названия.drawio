@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-12T08:29:27.982Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.42" etag="c0UZ-l4DSJ2nOT6aZ5-8" version="20.6.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-12-12T08:34:27.913Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.42" etag="q48MLIYiCSru9jiFnEdP" version="20.6.0" type="github" pages="3">
   <diagram id="HF_OiDbyZWDSJgENQruM" name="Страница 1">
     <mxGraphModel dx="2249" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -402,7 +402,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="tNFe560IlAovYVEiZyPd" name="Страница 3">
+  <diagram id="tNFe560IlAovYVEiZyPd" name="магазин чая">
     <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -513,6 +513,9 @@
               <mxPoint x="380" y="295" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="hyWmKe0eY1-NjRqtdv4v-1" value="заказ чая" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="120" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
