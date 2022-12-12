@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-12T09:10:03.077Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.42" etag="4qHUDFmDnUO20O47bcl4" version="20.6.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-12-12T09:20:33.565Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.42" etag="cahokVx_sA4LhMOsvoBK" version="20.6.0" type="github" pages="3">
   <diagram id="HF_OiDbyZWDSJgENQruM" name="Страница 1">
     <mxGraphModel dx="2249" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -403,7 +403,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tNFe560IlAovYVEiZyPd" name="магазин чая">
-    <mxGraphModel dx="2012" dy="1831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2212" dy="1859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -413,7 +413,7 @@
         <mxCell id="NbpzsmXHA--78_MSPytd-2" value="Карточка товара проходит модерацию" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NbpzsmXHA--78_MSPytd-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NbpzsmXHA--78_MSPytd-3" value="Покупатель делает заказ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NbpzsmXHA--78_MSPytd-4" value="Создание заказа товара на сайте" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -550,6 +550,19 @@
         </mxCell>
         <mxCell id="hMEJyxLkgbWT-Fng3xC_-7" value="&lt;span style=&quot;&quot;&gt;Карточка товара &lt;br&gt;на маркетплейсе&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="515" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hMEJyxLkgbWT-Fng3xC_-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="NbpzsmXHA--78_MSPytd-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="400" as="sourcePoint" />
+            <mxPoint x="700" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="700" y="400" />
+              <mxPoint x="700" y="455" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hMEJyxLkgbWT-Fng3xC_-9" value="&lt;span style=&quot;&quot;&gt;Уведомление о &lt;br&gt;заказе продавцу&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="670" y="360" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
