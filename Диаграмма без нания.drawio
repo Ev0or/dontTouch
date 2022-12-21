@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-21T10:07:32.684Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.2.807 Yowser/2.5 Safari/537.36" etag="e71RegkYKAGbg6p3umsH" version="20.7.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-21T10:25:25.072Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.2.807 Yowser/2.5 Safari/537.36" etag="TiIU4FjJ2nPHW9A9ly2j" version="20.7.4" type="github" pages="3">
   <diagram id="qRZpCLQiepNizAsRCy89" name="Страница 3">
-    <mxGraphModel dx="5238" dy="-83" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4659" dy="-409" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3311,6 +3311,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="RbqFQ5ok8rxNUvddSss4" name="Страница 4">
+    <mxGraphModel dx="1351" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
