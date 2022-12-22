@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-22T09:22:12.690Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="km2xb2kcBmqEEEBn2Ene" version="20.7.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-12-22T09:23:21.034Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="xMQ--nCHHTNTfJM47Fzf" version="20.7.3" type="github" pages="3">
   <diagram id="qRZpCLQiepNizAsRCy89" name="Страница 3">
     <mxGraphModel dx="4742" dy="-373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2817,7 +2817,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1UUH1_j_GsuUeWJr4NuQ" name="Страница 2">
-    <mxGraphModel dx="989" dy="1718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="478" dy="1434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3175,7 +3175,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sn2obh657iCRe-pmDidx-81" value="Товара" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="390" width="183" height="160" as="geometry" />
+          <mxGeometry x="350" y="380" width="183" height="160" as="geometry" />
         </mxCell>
         <mxCell id="sn2obh657iCRe-pmDidx-82" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="sn2obh657iCRe-pmDidx-81" vertex="1">
           <mxGeometry y="30" width="183" height="30" as="geometry" />
@@ -3284,22 +3284,22 @@
             <mxRectangle width="153" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sn2obh657iCRe-pmDidx-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=ERmany;endFill=0;startArrow=ERone;startFill=0;" parent="1" source="sn2obh657iCRe-pmDidx-82" edge="1">
+        <mxCell id="sn2obh657iCRe-pmDidx-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERmany;endFill=0;startArrow=ERone;startFill=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="420" as="sourcePoint" />
             <mxPoint x="360" y="30" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="560" y="435" />
-              <mxPoint x="560" y="245" />
-              <mxPoint x="330" y="245" />
+              <mxPoint x="350" y="420" />
+              <mxPoint x="330" y="420" />
               <mxPoint x="330" y="30" />
-              <mxPoint x="360" y="30" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sn2obh657iCRe-pmDidx-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;" parent="1" source="sn2obh657iCRe-pmDidx-82" target="sn2obh657iCRe-pmDidx-101" edge="1">
+        <mxCell id="sn2obh657iCRe-pmDidx-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;exitX=0;exitY=0.667;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="sn2obh657iCRe-pmDidx-82" target="sn2obh657iCRe-pmDidx-101" edge="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="430" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="310" y="450" />
+              <mxPoint x="310" y="430" />
               <mxPoint x="310" y="755" />
             </Array>
           </mxGeometry>
