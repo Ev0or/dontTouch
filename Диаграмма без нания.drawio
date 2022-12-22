@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-22T09:17:15.605Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="xYCHtnIsg56JKZhyc_LC" version="20.7.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-12-22T09:19:14.024Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="Eq6IjroJf2dz8GjMsy04" version="20.7.3" type="github" pages="3">
   <diagram id="qRZpCLQiepNizAsRCy89" name="Страница 3">
     <mxGraphModel dx="4742" dy="-373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3318,12 +3318,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sn2obh657iCRe-pmDidx-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.011;entryY=0.733;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;" parent="1" source="sn2obh657iCRe-pmDidx-46" target="sn2obh657iCRe-pmDidx-78" edge="1">
+        <mxCell id="sn2obh657iCRe-pmDidx-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;" parent="1" source="sn2obh657iCRe-pmDidx-46" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="890" y="162" />
-              <mxPoint x="890" y="752" />
+              <mxPoint x="890" y="850" />
+              <mxPoint x="580" y="850" />
+              <mxPoint x="580" y="752" />
             </Array>
+            <mxPoint x="620" y="752" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
