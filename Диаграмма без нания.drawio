@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-21T10:25:25.072Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.2.807 Yowser/2.5 Safari/537.36" etag="TiIU4FjJ2nPHW9A9ly2j" version="20.7.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-12-22T09:14:49.158Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="bLA-TZLXa9JI646mZkiF" version="20.7.3" type="github" pages="3">
   <diagram id="qRZpCLQiepNizAsRCy89" name="Страница 3">
-    <mxGraphModel dx="4659" dy="-409" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4742" dy="-373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2817,7 +2817,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1UUH1_j_GsuUeWJr4NuQ" name="Страница 2">
-    <mxGraphModel dx="1351" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2923,7 +2923,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sn2obh657iCRe-pmDidx-25" value=" ID Пункт выдачи" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="sn2obh657iCRe-pmDidx-23" vertex="1">
+        <mxCell id="sn2obh657iCRe-pmDidx-25" value="ID сайта" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="sn2obh657iCRe-pmDidx-23" vertex="1">
           <mxGeometry x="30" width="153" height="30" as="geometry">
             <mxRectangle width="153" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -3059,7 +3059,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sn2obh657iCRe-pmDidx-57" value="ID Доставки" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="sn2obh657iCRe-pmDidx-55" vertex="1">
+        <mxCell id="sn2obh657iCRe-pmDidx-57" value="ID  сайта " style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="sn2obh657iCRe-pmDidx-55" vertex="1">
           <mxGeometry x="30" width="153" height="30" as="geometry">
             <mxRectangle width="153" height="30" as="alternateBounds" />
           </mxGeometry>
